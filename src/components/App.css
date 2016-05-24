@@ -1,0 +1,15 @@
+.table {
+  width: 500px;
+  height: 500px;
+  margin: 0 auto;
+  font-family: Courier New, Courier New, monospace;
+  background-image: url(./map.jpg);
+  background-size: 100% 100%;
+}
+
+.cell {
+  cursor: pointer;
+  color: #000;
+  background-size: contain;
+  border-radius: 5px;
+}
